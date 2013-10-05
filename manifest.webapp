@@ -1,11 +1,11 @@
 {
     "name":"MozSummit Brussels Pubs",
     "description":"Best pubs for Mozillian in Brussels",
-    "launch_path":"\/index.html",
+    "launch_path":"./index.html",
     "icons":{
-        "16":"\/img\/icons\/pubs-16.png",
-        "48":"\/img\/icons\/pubs-48.png",
-        "128":"\/img\/icons\/pubs-128.png"
+        "16":"/img/icons/mortar-16.png",
+        "48":"/img/icons/mortar-48.png",
+        "128":"/img/icons/mortar-128.png"
     },
     "developer":{
         "name":"Sebastien Barbieri",
