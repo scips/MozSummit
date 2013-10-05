@@ -1,0 +1,20 @@
+{
+    "version": "0.1",
+    "name": "MozSummit Brussels: Pubs",
+    "description": "Best pubs for Mozillian in Brussels",
+    "launch_path": "/index.html",
+    "icons": {
+        "16": "/img/icons/pubs-16.png",
+        "48": "/img/icons/pubs-48.png",
+        "128": "/img/icons/pubs-128.png"
+    },
+    "developer": {
+        "name": "Sébastien Barbieri",
+        "url": "http://blog.sbw.be"
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "en",
+    "permissions": {
+        "systemXHR": {}
+    }
+}
