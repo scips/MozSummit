@@ -8,10 +8,6 @@
 /* Your styles here */
 
 html {
-  background:
-    url(../img/pattern.png) repeat left top,
-    url(../img/gradient.png) no-repeat left top / 100% 100%;
-    min-height: 100%;
 }
 
 body {
