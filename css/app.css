@@ -163,3 +163,8 @@ body {
     font-size: 1.3em;
   }
  }
+
+iframe {
+    height: 600px;
+    width: 100%;
+}
