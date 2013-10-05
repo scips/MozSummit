@@ -1,7 +1,7 @@
 {
     "name":"MozSummit Brussels Pubs",
     "description":"Best pubs for Mozillian in Brussels",
-    "launch_path":"./index.html",
+    "launch_path":"/MozSummit/",
     "icons":{
         "16":"/img/icons/mortar-16.png",
         "48":"/img/icons/mortar-48.png",
