@@ -3,9 +3,9 @@
     "description":"Best pubs for Mozillian in Brussels",
     "launch_path":"/MozSummit/",
     "icons":{
-        "16":"/img/icons/mortar-16.png",
-        "48":"/img/icons/mortar-48.png",
-        "128":"/img/icons/mortar-128.png"
+        "16":"/MozSummit/img/icons/mortar-16.png",
+        "48":"/MozSummit/img/icons/mortar-48.png",
+        "128":"/MozSummit/img/icons/mortar-128.png"
     },
     "developer":{
         "name":"Sebastien Barbieri",
